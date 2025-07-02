@@ -1,2 +1,2 @@
 # Football-Betting
-My attempt to make money from football. 
+Data sourced from football-data.co.uk
